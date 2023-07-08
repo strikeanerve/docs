@@ -11,8 +11,7 @@ These are the official Velocimeter Logos and brand materials. Please feel free t
 ## Velocimeter Marketing Pack
 
 
-[velocimeter-marketing-pack.zip](https://github.com/strikeanerve/velocimeter-assets/releases/download/v1.0.0/velocimeter-marketing-pack.zip)
-
+[Velocimeter-Marketing-Pack.zip](https://github.com/strikeanerve/velocimeter-assets/files/10699389/velocimeter-marketing-pack.zip)
 
 ## The Velocimeter Logo
 
@@ -67,6 +66,39 @@ White
 Token
 </p>
 
+### FVM Logotype
+
+<p align = "center"><img src = "https://github.com/strikeanerve/velocimeter-assets/blob/main/FVM-logotype-blu.png"/></p><p align = "center">
+Turquoise
+</p>
+
+<p align = "center"><img src = "https://github.com/strikeanerve/velocimeter-assets/blob/main/FVM-logotype-black.png"/></p><p align = "center">
+Black
+</p>
+
+### FVM Combination Mark
+
+<p align = "center"><img src = "https://github.com/strikeanerve/velocimeter-assets/blob/main/fvm-combinationmark-all-blu.png"/></p><p align = "center">
+Turquoise
+</p>
+
+<p align = "center"><img src = "https://github.com/strikeanerve/velocimeter-assets/blob/main/fvm-combinationmark-black.png"/></p><p align = "center">
+Black
+</p>
+
+<p align = "center"><img src = "https://github.com/strikeanerve/velocimeter-assets/blob/main/fvm-combinationmark-left-align-blu.svg"/></p><p align = "center">
+Turquoise SVG
+</p>
+
+### FVM Tokens
+
+<p align = "center"><img src = "https://github.com/strikeanerve/velocimeter-assets/blob/main/FVM-token.png"/></p><p align = "center">
+FVM Token
+</p>
+
+<p align = "center"><img src = "https://github.com/strikeanerve/velocimeter-assets/blob/main/oFVM-token.png"/></p><p align = "center">
+oFVM Token
+</p>
 
 
 ## Typography
